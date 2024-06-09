@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm Farhad Khobolov!
 
-<!--
-**Khobolov/khobolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Glad you dropped by.
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software / DevOps Engineer who loves to build, and automate with Go 🐹, JavaScript, TypeScript, and PHP 🐘. When I'm not
+staring at my terminal, you'll find me chasing down the latest tech trends or
+cooking up some scripts to make life easier.
+
+## Technologies & Tools 🔧
+
+- Programming Languages: Go, JavaScript, TypeScript, PHP
+- Backend Development: NodeJs, NestJs, Express, Laravel
+- DevOps: CI/CD (GitHub Actions), Docker, Kubernetes
+- Web Servers: Nginx, Apache
+- Cloud: AWS, Azure
+- Monitoring & Observability: Grafana, Loki, Prometheus
+- Log Processor: Fluentd, Fluent-bit 
+- Infrastructure as Code (IaC): Terraform, Ansible
+- Search Engine: ElasticSearch
+- Relational Databases: PostgreSQL, MySQL
+- NoSQL Databases: Redis
+- Message Broker: RabbitMQ
+
+## My GitHub Stats 📈
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khobolov&show_icons=true&theme=tokyonight)
+
+<details>
+<summary><b>More Stats</b></summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khobolov&layout=compact&theme=tokyonight)
+
+</details>
+
+## Let's Connect! 🌐
+
+Feel free to reach out to me:
+
+- LinkedIn: [farhad-khobolov](https://www.linkedin.com/in/farhad-khobolov/)
